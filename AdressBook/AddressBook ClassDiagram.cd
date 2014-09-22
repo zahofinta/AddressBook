@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AddressBook" Collapsed="true">
+    <Position X="3.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AkAMAARAAIIACAAAAAAAIgAAAAADBAAAQGggAAIAIAA=</HashCode>
+      <FileName>AddressBook.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Contact" Collapsed="true">
+    <Position X="7.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAEAAQAQBAAEEAAACIAAIAAQAAAAAAAAQAAgAIAAAAA=</HashCode>
+      <FileName>contact.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="date" Collapsed="true">
+    <Position X="14.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAkAAAAAAEQAAAAQAEAIQAAAAQAAAAAYAAiAQAgARA=</HashCode>
+      <FileName>date.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Date_" Collapsed="true">
+    <Position X="10.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgCAABCAAAEAAAAAAAAIAAAAAAAAAAAaAACAAAAACA=</HashCode>
+      <FileName>Date_.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Email" Collapsed="true">
+    <Position X="6.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAEAAAACAAAAAgAAAAIAAAAAIAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Email.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhoneNumber" Collapsed="true">
+    <Position X="3.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAYACAAAAAAAAgQAAAARAAAAA=</HashCode>
+      <FileName>PhoneNumber.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Searcher" Collapsed="true">
+    <Position X="19.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAIAAABAEAAAAAAAAAAAEAAAAAAAAgAAAAAgA=</HashCode>
+      <FileName>Searcher.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SearchObject" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAABAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SearchObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Serializable" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Serializable.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Text" Collapsed="true">
+    <Position X="9.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEACAAAgAAAAAAAAAIAAAAAAAAAAIQAAACAAAAAA=</HashCode>
+      <FileName>Text.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Type" Collapsed="true">
+    <Position X="16.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAACBAAAAAAAAAhEAAJIAAAEgAAAAIgQQIAAAAAAgA=</HashCode>
+      <FileName>Type.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,104 @@
+﻿Build started 28.7.2014 г. 11:58:56 ч..
+     1>Project "C:\Users\User\Desktop\AdressBook\AddressBook\AdressBook\AdressBook.vcxproj" on node 2 (Build target(s)).
+       Project file contains ToolsVersion="12.0". This toolset is unknown or missing. You may be able to resolve this by installing the appropriate .NET Framework for this toolset. Treating the project as if it had ToolsVersion="4.0".
+     1>ClCompile:
+         D:\MS VISUAL STUDIO 2012\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt AddressBook.cpp PhoneNumber.cpp Searcher.cpp Text.cpp Type.cpp contact.cpp main.cpp
+         AddressBook.cpp
+     1>c:\users\user\desktop\adressbook\addressbook\adressbook\addressbook.cpp(50): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\desktop\adressbook\addressbook\adressbook\addressbook.cpp(106): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\desktop\adressbook\addressbook\adressbook\addressbook.cpp(124): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\desktop\adressbook\addressbook\adressbook\addressbook.cpp(143): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\desktop\adressbook\addressbook\adressbook\addressbook.cpp(162): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\desktop\adressbook\addressbook\adressbook\addressbook.cpp(195): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\desktop\adressbook\addressbook\adressbook\addressbook.cpp(212): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\desktop\adressbook\addressbook\adressbook\addressbook.cpp(219): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\user\desktop\adressbook\addressbook\adressbook\addressbook.cpp(222): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\user\desktop\adressbook\addressbook\adressbook\addressbook.cpp(237): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\desktop\adressbook\addressbook\adressbook\addressbook.cpp(256): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\desktop\adressbook\addressbook\adressbook\addressbook.cpp(263): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\user\desktop\adressbook\addressbook\adressbook\addressbook.cpp(266): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\user\desktop\adressbook\addressbook\adressbook\addressbook.cpp(281): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\desktop\adressbook\addressbook\adressbook\addressbook.cpp(300): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\desktop\adressbook\addressbook\adressbook\addressbook.cpp(307): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\user\desktop\adressbook\addressbook\adressbook\addressbook.cpp(310): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\user\desktop\adressbook\addressbook\adressbook\addressbook.cpp(325): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\desktop\adressbook\addressbook\adressbook\addressbook.cpp(343): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\desktop\adressbook\addressbook\adressbook\addressbook.cpp(350): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\user\desktop\adressbook\addressbook\adressbook\addressbook.cpp(353): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\user\desktop\adressbook\addressbook\adressbook\addressbook.cpp(382): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\desktop\adressbook\addressbook\adressbook\addressbook.cpp(389): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\user\desktop\adressbook\addressbook\adressbook\addressbook.cpp(392): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\user\desktop\adressbook\addressbook\adressbook\addressbook.cpp(394): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\desktop\adressbook\addressbook\adressbook\addressbook.cpp(413): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\desktop\adressbook\addressbook\adressbook\addressbook.cpp(420): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\user\desktop\adressbook\addressbook\adressbook\addressbook.cpp(423): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\user\desktop\adressbook\addressbook\adressbook\addressbook.cpp(425): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\desktop\adressbook\addressbook\adressbook\addressbook.cpp(445): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\desktop\adressbook\addressbook\adressbook\addressbook.cpp(452): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\user\desktop\adressbook\addressbook\adressbook\addressbook.cpp(455): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\user\desktop\adressbook\addressbook\adressbook\addressbook.cpp(457): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\desktop\adressbook\addressbook\adressbook\addressbook.cpp(475): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\desktop\adressbook\addressbook\adressbook\addressbook.cpp(482): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\user\desktop\adressbook\addressbook\adressbook\addressbook.cpp(485): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\user\desktop\adressbook\addressbook\adressbook\addressbook.cpp(487): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\desktop\adressbook\addressbook\adressbook\addressbook.cpp(524): warning C4018: '<' : signed/unsigned mismatch
+         Generating Code...
+         Compiling...
+         main.cpp
+     1>c:\users\user\desktop\adressbook\addressbook\adressbook\main.cpp(43): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\desktop\adressbook\addressbook\adressbook\main.cpp(95): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\desktop\adressbook\addressbook\adressbook\main.cpp(97): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\desktop\adressbook\addressbook\adressbook\main.cpp(106): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\user\desktop\adressbook\addressbook\adressbook\main.cpp(109): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\user\desktop\adressbook\addressbook\adressbook\main.cpp(117): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\desktop\adressbook\addressbook\adressbook\main.cpp(119): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\desktop\adressbook\addressbook\adressbook\main.cpp(128): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\user\desktop\adressbook\addressbook\adressbook\main.cpp(131): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\user\desktop\adressbook\addressbook\adressbook\main.cpp(144): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\desktop\adressbook\addressbook\adressbook\main.cpp(155): warning C4018: '<' : signed/unsigned mismatch
+         contact.cpp
+     1>c:\users\user\desktop\adressbook\addressbook\adressbook\contact.cpp(55): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\desktop\adressbook\addressbook\adressbook\contact.cpp(62): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\desktop\adressbook\addressbook\adressbook\contact.cpp(69): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\desktop\adressbook\addressbook\adressbook\contact.cpp(78): warning C4018: '<' : signed/unsigned mismatch
+         Type.cpp
+     1>c:\users\user\desktop\adressbook\addressbook\adressbook\type.cpp(69): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\desktop\adressbook\addressbook\adressbook\type.cpp(77): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\desktop\adressbook\addressbook\adressbook\type.cpp(82): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\desktop\adressbook\addressbook\adressbook\type.cpp(87): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\desktop\adressbook\addressbook\adressbook\type.cpp(92): warning C4018: '<' : signed/unsigned mismatch
+         Text.cpp
+         Searcher.cpp
+     1>c:\users\user\desktop\adressbook\addressbook\adressbook\searcher.cpp(26): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\desktop\adressbook\addressbook\adressbook\searcher.cpp(37): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\desktop\adressbook\addressbook\adressbook\searcher.cpp(45): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\desktop\adressbook\addressbook\adressbook\searcher.cpp(53): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\desktop\adressbook\addressbook\adressbook\searcher.cpp(61): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\desktop\adressbook\addressbook\adressbook\searcher.cpp(82): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\desktop\adressbook\addressbook\adressbook\searcher.cpp(87): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\desktop\adressbook\addressbook\adressbook\searcher.cpp(93): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\desktop\adressbook\addressbook\adressbook\searcher.cpp(99): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\desktop\adressbook\addressbook\adressbook\searcher.cpp(105): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\desktop\adressbook\addressbook\adressbook\searcher.cpp(110): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\desktop\adressbook\addressbook\adressbook\searcher.cpp(149): warning C4018: '<' : signed/unsigned mismatch
+         PhoneNumber.cpp
+         Generating Code...
+     1>c:\users\user\desktop\adressbook\addressbook\adressbook\contact.cpp(107): warning C4715: 'Contact::get_name' : not all control paths return a value
+       Link:
+         D:\MS VISUAL STUDIO 2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\User\Desktop\AdressBook\AddressBook\Debug\AdressBook.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\User\Desktop\AdressBook\AddressBook\Debug\AdressBook.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\User\Desktop\AdressBook\AddressBook\Debug\AdressBook.lib" /MACHINE:X86 Debug\AddressBook.obj
+         Debug\contact.obj
+         Debug\date.obj
+         Debug\Date_.obj
+         Debug\Email.obj
+         Debug\functions.obj
+         Debug\main.obj
+         Debug\PhoneNumber.obj
+         Debug\Searcher.obj
+         Debug\Text.obj
+         Debug\Type.obj
+         AdressBook.vcxproj -> C:\Users\User\Desktop\AdressBook\AddressBook\Debug\AdressBook.exe
+     1>Done Building Project "C:\Users\User\Desktop\AdressBook\AddressBook\AdressBook\AdressBook.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:08.85
